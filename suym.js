@@ -1,0 +1,1 @@
+function sum(n,t){alert(n+t)}
